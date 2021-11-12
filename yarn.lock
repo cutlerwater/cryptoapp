@@ -2353,6 +2353,13 @@
     "clean-stack" "^2.0.0"
     "indent-string" "^4.0.0"
 
+"airbnb@^0.0.2":
+  "integrity" "sha512-eC+7zzGrcM///BKt04V23v+W3b9dWDUltOzo0j5lzjhvvMc4EiSxh55k2vlVnHTZ0igqA8/i/1j2j+m7UlZ54w=="
+  "resolved" "https://registry.npmjs.org/airbnb/-/airbnb-0.0.2.tgz"
+  "version" "0.0.2"
+  dependencies:
+    "chalk" "^2.4.2"
+
 "ajv-errors@^1.0.0":
   "integrity" "sha512-DCRfO/4nQ+89p/RK43i8Ezd41EqdGIU4ld7nGF8OQ14oc/we5rEntLCUa7+jrn3nn83BosfwZA0wb4pon2o8iQ=="
   "resolved" "https://registry.npmjs.org/ajv-errors/-/ajv-errors-1.0.1.tgz"
