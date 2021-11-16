@@ -6,7 +6,7 @@ import { useGetCryptosQuery } from '../services/cryptoApi';
 import { useGetCryptoNewsQuery } from '../services/cryptoNewsApi';
 import Loader from './Loader';
 
-const demoImage = 'https://www.bing.com/th?id=OVFT.mpzuVZnv8dwIMRfQGPbOPC&pid=News';
+const demoImage = 'https://www.coinrevolution.com/wp-content/uploads/2020/06/cryptonews.jpg';
 
 const { Text, Title } = Typography;
 const { Option } = Select;

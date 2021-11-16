@@ -51,6 +51,9 @@ const Navbar = () => {
         <Menu.Item icon={<HomeOutlined />}>
           <a href="https://cutlerwater-profile.netlify.app/">CutlerwaterITBlog</a>
         </Menu.Item>
+        <Menu.Item icon={<MoneyCollectOutlined />}>
+          <a href="MoneyCollectOutlined/">My Budget App</a>
+        </Menu.Item>
       </Menu>
       )}
     </div>
